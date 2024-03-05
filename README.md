@@ -44,3 +44,6 @@ Plese Read Wiki: [Wiki](https://github.com/AloneMonkey/MonkeyDev/wiki)
 #### 亚马逊: [https://www.amazon.cn/dp/B07D5952BR/](https://www.amazon.cn/dp/B07D5952BR/)
 
 <h3>请大家多多支持正版哦~</h3>
+---------------------------------------------------------------------------------------------------------------------------
+# 修改后一键安装脚本
+sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/Conan924/MonkeyDev/master/bin/md-install)"
